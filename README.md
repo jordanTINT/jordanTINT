@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordanTINT
+- 👋 Hi, I’m Bishal
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning Python
 - 📫 How to reach me via email 
